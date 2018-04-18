@@ -6,7 +6,7 @@
 * gti konfigurieren (wenn man es lokal verwenden will)
   * git config --global user.name <username>
   * git config -- global user.email <email>
-  * git config --lsirt <Konfiguartion anzeigen>
+  * git config --list <Konfiguartion anzeigen>
  * mit git arbeiten 
    * git status
    * git add <datei(en)>
