@@ -8,11 +8,11 @@
   * git config -- global user.email <email>
   * git config --lsirt <Konfiguartion anzeigen>
  * mit git arbeiten 
-  * git status
-  * git add <datei(en)>
-  * git git commit -m "commit message"
-  * git push (wenn man das repository von einem Server geklont hat)
-  * gti clone <URL von dem repository>
+   * git status
+   * git add <datei(en)>
+   * git git commit -m "commit message"
+   * git push (wenn man das repository von einem Server geklont hat)
+   * gti clone <URL von dem repository>
 
 ## python Grundlagen
 
